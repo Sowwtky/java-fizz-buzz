@@ -2,7 +2,7 @@ package jana60;
 
 import java.util.Scanner;
 
-public class BonusFizzBuzz {
+public class ABonusFizzBuzz {
 
 	public static void main(String[] args) {
 		//
