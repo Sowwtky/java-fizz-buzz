@@ -1,6 +1,6 @@
 package jana60;
 
-public class fizzBuzz {
+public class FizzBuzz {
 
 	public static void main(String[] args) {
 		
